@@ -9,6 +9,8 @@ Welcome to the fully free and all in one Discord bot's GitHub profile!
 <img src="https://img.shields.io/npm/dw/@orangybot/musicfilters.svg" alt=""/>
 </a>
 > This is Orangy's music filters npm package for erela.js!
+### Installation
+  
 ```sh
 npm i @orangybot/musicfilters
 ```
@@ -19,6 +21,7 @@ npm i @orangybot/musicfilters
 </a>
 > This is Orangy's Discord bot to InfluxDB npm package!
 ### Installation
+  
 ```sh
 npm i @orangybot/influxmonitor
 ```
