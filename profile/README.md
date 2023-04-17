@@ -29,6 +29,19 @@ npm i @orangybot/musicfilters
 ```sh
 npm i @orangybot/influxmonitor
 ```
+  
+## @orangybot/translationsengine - [Repository](https://github.com/OrangyBot/TranslationsEngine)
+  > This is Orangy's official translations package!
+  
+<a href="https://npmjs.com/package/@orangybot/translationsengine" target="_blank">
+<img src="https://img.shields.io/npm/dw/@orangybot/translationsengine.svg" alt=""/>
+</a>
+  
+### Installation
+  
+```sh
+npm i @orangybot/translationsengine
+```
 
 ## Management - [Repository](https://github.com/OrangyBot/Management)
   > This is Orangy's Management bot!
