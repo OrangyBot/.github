@@ -42,17 +42,5 @@ npm i @orangybot/influxmonitor
 ```sh
 npm i @orangybot/translationsengine
 ```
-
-## Management - [Repository](https://github.com/OrangyBot/Management)
-  > This is Orangy's Management bot!
-  
-### Installation
-  
-```sh
-git clone https://github.com/OrangyBot/Management
-npm i
-*Fill the configuration file*
-node Index
-```
   
 </div>
