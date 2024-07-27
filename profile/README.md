@@ -3,20 +3,7 @@
 # Orangy
 Welcome to the fully free and all in one Discord bot's GitHub profile!
 
-# Orangy :heart: Open source
-## @orangybot/musicfilters - [Repository](https://github.com/OrangyBot/MusicFilters)
-  > This is Orangy's music filters npm package for erela.js!
-  
-<a href="https://npmjs.com/package/@orangybot/musicfilters" target="_blank">
-<img src="https://img.shields.io/npm/dw/@orangybot/musicfilters.svg" alt=""/>
-</a>
-
-### Installation
-  
-```sh
-npm i @orangybot/musicfilters
-```
-  
+# Orangy :heart: Open source  
 ## @orangybot/influxmonitor - [Repository](https://github.com/OrangyBot/InfluxMonitor)
   > This is Orangy's Discord bot to InfluxDB npm package!
   
@@ -41,6 +28,20 @@ npm i @orangybot/influxmonitor
   
 ```sh
 npm i @orangybot/translationsengine
+```
+
+## @orangybot/musicfilters - [Repository](https://github.com/OrangyBot/MusicFilters)
+### Note: this package has been deprecated as of 27/07/2024.
+  > This is Orangy's music filters npm package for erela.js!
+  
+<a href="https://npmjs.com/package/@orangybot/musicfilters" target="_blank">
+<img src="https://img.shields.io/npm/dw/@orangybot/musicfilters.svg" alt=""/>
+</a>
+
+### Installation
+  
+```sh
+npm i @orangybot/musicfilters
 ```
   
 </div>
